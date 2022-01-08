@@ -1,0 +1,38 @@
+                                /* DIV FONDO DE CABECERA */
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(18, 2, 44);
+    height: 100vh;
+}
+/* ----------------------------------------------------------------------------------------------------------------- */
+
+                                /* DIV TÍTULO */
+.sub_title{
+    background-color: #2702f6b9;
+    height: 90vh;
+    border: rgba(255, 0, 212, 0.459) 10px ridge ;
+}
+.title{
+background-color:#030100;
+ border-top:#ff2fff 15px ridge ;
+ border-bottom:#ff2fff 15px ridge;
+ border-left:#d900ff 15px ridge;
+ border-right:#d900ff 15px ridge; 
+ color: rgb(255, 208, 0);;
+ font-family: 'Press Start 2P', cursive;
+ 
+}
+.emo{
+    color: rgb(255, 208, 0);
+}
+/* ----------------------------------------------------------------------------------------------------------------- */
+
+.ange_position{
+    display: flex;
+    justify-content:center;
+    align-items:flex-end;
+    height:60vh;
+    width:90vw;
+}
